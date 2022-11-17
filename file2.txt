@@ -1,3 +1,4 @@
 hello to people in file 2
 1.change from fixup branch
 2.change from fixup branch
+3.finish change from master
